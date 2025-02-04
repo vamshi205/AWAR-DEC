@@ -7,6 +7,8 @@
 - **Features:**
   - Does not resolve dependencies automatically.
   - Requires downloading and managing dependencies manually.
+ 
+- testing
   
 - **Commands:**
   - Install a package:  
